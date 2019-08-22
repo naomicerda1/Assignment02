@@ -1,0 +1,15 @@
+h1{
+    text-decoration: underline;
+}
+body{
+    background-color: darkgoldenrod;
+    font-size: 30px;
+}
+.main-question{
+    font-weight: bold;
+    color: blue;
+}
+#copyright{
+    font-size: 15px;
+    color: darkmagenta;
+}
